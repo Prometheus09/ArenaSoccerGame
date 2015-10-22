@@ -1,0 +1,9 @@
+C:\Users\sfuerbringer_be\Dropbox\SlimeSoccer\SlimeSoccer\bin\Debug\SlimeSoccer.exe.config
+C:\Users\sfuerbringer_be\Dropbox\SlimeSoccer\SlimeSoccer\bin\Debug\SlimeSoccer.exe
+C:\Users\sfuerbringer_be\Dropbox\SlimeSoccer\SlimeSoccer\bin\Debug\SlimeSoccer.pdb
+C:\Users\sfuerbringer_be\Dropbox\SlimeSoccer\SlimeSoccer\obj\Debug\SlimeSoccer.csprojResolveAssemblyReference.cache
+C:\Users\sfuerbringer_be\Dropbox\SlimeSoccer\SlimeSoccer\obj\Debug\SlimeSoccer.Properties.Resources.resources
+C:\Users\sfuerbringer_be\Dropbox\SlimeSoccer\SlimeSoccer\obj\Debug\SlimeSoccer.csproj.GenerateResource.Cache
+C:\Users\sfuerbringer_be\Dropbox\SlimeSoccer\SlimeSoccer\obj\Debug\SlimeSoccer.exe
+C:\Users\sfuerbringer_be\Dropbox\SlimeSoccer\SlimeSoccer\obj\Debug\SlimeSoccer.pdb
+C:\Users\sfuerbringer_be\Dropbox\SlimeSoccer\SlimeSoccer\obj\Debug\SlimeSoccer.ArenaSoccer.resources
